@@ -1,0 +1,4 @@
+kiteconnect==4.1.0
+pandas==1.5.1
+pyotp==2.7.0
+selenium==4.8.0
