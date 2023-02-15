@@ -1,0 +1,19 @@
+{
+    "name": "Algo App",
+    "version": "0.0.1",
+    "description": "Algo Trading App",
+    "keywords": "Algo, Trading, Algo Trading, Algo Trading App, Strategy, Candlestick Pattern",
+    "author": "Suhas Bhosale",
+    "keys": {
+        "api_key": "api key",
+        "api_secret": "api secret",
+        "username": "zerodha username",
+        "password": "zerodha password",
+        "totp_key": "zerodha totp key"
+    },
+    "instruments": [
+        "NSE:INFY",
+        "NSE:ACC"
+    ],
+    "interval": 1
+}
